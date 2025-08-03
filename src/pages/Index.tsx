@@ -68,8 +68,7 @@ export default function Index() {
 
       {/* Hero Section */}
       <section id="home" className="relative py-20 overflow-hidden">
-        <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(https://cdn.poehali.dev/files/ca8413fa-680a-405c-9476-aa7c8936bb23.png)'}}></div>
-        <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/40"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-red-600/20 to-amber-500/20"></div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="text-center lg:text-left">
